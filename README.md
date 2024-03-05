@@ -1,6 +1,6 @@
 # Generative AI in Flutter Build with Gemini
 
-I create a chat interface in Flutter that communicates with a Generative AI model using the google_generative_aipackage.
+Created a chat interface in Flutter that communicates with a Generative AI model using the google_generative_aipackage.
 
 You’ll need an API key to use the Gemini AI model, Create your's :- https://aistudio.google.com/app/apikey
 
